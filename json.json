@@ -2,7 +2,7 @@
   "ADS": {
 
 
-    "networkAd": "startapp",
+    "networkAd": "xxx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -12,7 +12,7 @@
     "max_banner": "13482be8f771efc7",
     "Native_max": "76d87171404718ed",
 
-    "startapp_id": "139480955",
+    "startapp_id": "xxxx",
 
     "show_cpa": false,
     "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
@@ -38,24 +38,39 @@
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
-    "Text_tips1": "Welcome Test Badr",
-    "Text_tips2": "Welcome Test Badr2",
-    "Text_tips3": "Welcome Test Badr3",
-    "Text_tips4": "Welcome Test Badr4",
-    "Text_tips5": "Welcome Test Badr5",
-    "Text_tips6": "Welcome Test Badr6",
-    "Text_tips7": "Welcome Test Badr7",
-    "Text_tips8": "Welcome Test Badr8",
+    "Text_tips1": ""La guía de la aplicación Mhdflix te ayuda a navegar por la plataforma sin esfuerzo."
+"Aprende cómo registrarte y crear tu cuenta de Mhdflix."
+"Descubre una amplia biblioteca de películas y series en Mhdflix."
+"Descubre cómo buscar y explorar diferentes géneros y categorías."
+"Aprende cómo agregar películas y programas a tu lista de reproducción en Mhdflix."
+"Descubre consejos para crear listas de reproducción personalizadas y colas de reproducción."
+"Infórmate sobre cómo transmitir contenido en calidad de alta definición en Mhdflix."
+"Conoce los contenidos recomendados y populares en Mhdflix."
+"Descubre cómo gestionar la configuración de tu cuenta y tus preferencias."
+"Infórmate sobre los controles parentales y las opciones de filtrado de contenido en Mhdflix."
+"Aprende cómo descargar películas y programas para ver sin conexión en Mhdflix."
+"Descubre cómo calificar y dejar reseñas para tus títulos favoritos en Mhdflix."
+"Conoce los contenidos originales exclusivos y las producciones de Mhdflix."
+"Aprende cómo personalizar los subtítulos y las opciones de audio en Mhdflix."
+"Descubre cómo acceder al soporte al cliente y resolver cualquier problema que puedas encontrar."
+"Explora la guía de la aplicación Mhdflix para mejorar tu experiencia de streaming."",
+    "Text_tips2": "Aprende cómo registrarte y crear tu cuenta de Mhdflix",
+    "Text_tips3": "Descubre una amplia biblioteca de películas y series en Mhdflix.",
+    "Text_tips4": "Descubre cómo buscar y explorar diferentes géneros y categorías.",
+    "Text_tips5": "Aprende cómo agregar películas y programas a tu lista de reproducción en Mhdflix.",
+    "Text_tips6": "Descubre consejos para crear listas de reproducción personalizadas y colas de reproducción.",
+    "Text_tips7": "Infórmate sobre cómo transmitir contenido en calidad de alta definición en Mhdflix.",
+    "Text_tips8": "Conoce los contenidos recomendados y populares en Mhdflix.",
 
 
-    "Text_title1": "Test Badr",
-    "Text_title2": "Test Badr2",
-    "Text_title3": "Test Badr3",
-    "Text_title4": "Test Badr4",
-    "Text_title5": "Test Badr5",
-    "Text_title6": "Test Badr6",
-    "Text_title7": "Test Badr7",
-    "Text_title8": "Test Badr8",
+    "Text_title1": "Descubre cómo gestionar la configuración de tu cuenta y tus preferencias.",
+    "Text_title2": "Infórmate sobre los controles parentales y las opciones de filtrado de contenido en Mhdflix.",
+    "Text_title3": "Aprende cómo descargar películas y programas para ver sin conexión en Mhdflix.",
+    "Text_title4": "Descubre cómo calificar y dejar reseñas para tus títulos favoritos en Mhdflix.",
+    "Text_title5": "Conoce los contenidos originales exclusivos y las producciones de Mhdflix.",
+    "Text_title6": "Aprende cómo personalizar los subtítulos y las opciones de audio en Mhdflix.",
+    "Text_title7": "Descubre cómo acceder al soporte al cliente y resolver cualquier problema que puedas encontrar.",
+    "Text_title8": "Explora la guía de la aplicación Mhdflix para mejorar tu experiencia de streaming.",
 
 
     "Text_buttonCoins" : "Male",
@@ -66,7 +81,7 @@
 
     "CpaAds" : "false",
 
-    "Click_inter": "xxxx"
+    "Click_inter": "1"
 
   }
 }
